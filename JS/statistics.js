@@ -52,17 +52,6 @@ $(function () {
     };
 
 
-    // var test = // [1,2,4,7,4,89,23,54,56,23,89,34,54,78,33,46,54,32,34,56];
-    // 
-    // console.log(test);
-    // console.log(test.sort());
-    // console.log(test.reverse());
-
-    
-
-
-    
-
     function createTable1() {
 
 
@@ -89,11 +78,6 @@ $(function () {
     }
 
 
-
-
-
-
- 
 
     function createTable2() {
 

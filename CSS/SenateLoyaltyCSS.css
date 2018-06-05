@@ -1,0 +1,32 @@
+body {
+background-color: #104859;
+}
+
+.container {
+background-color: aliceblue;
+}
+
+.inline1 {
+float: right;
+width: 40%;
+}
+
+.inline {
+float: left;
+width: 50%;
+margin: 0px;
+}
+
+h2 {
+margin-bottom: 30px;
+margin-top: 60px;
+}
+
+.top {
+margin-top: 20px;
+}
+
+h1 {
+width: 70%;
+border-bottom: 0px;
+}
